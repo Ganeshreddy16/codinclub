@@ -1,0 +1,1 @@
+echo "yes,today is thursday"
